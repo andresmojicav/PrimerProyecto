@@ -1,2 +1,5 @@
 # PrimerProyecto
- Primer Proyecto Android UAM
+ Primer Proyecto Android 
+ Tres idiomas
+ Soportar Tres dispositivos
+ 
